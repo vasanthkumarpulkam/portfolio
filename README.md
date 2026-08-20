@@ -1,6 +1,6 @@
 # Portfolio
 
-Personal portfolio site for **Vasanth Kumar**, Senior Data Engineer.
+Personal portfolio site  **Vasanth Kumar**, Senior Data Engineer.
 
 **Live:** https://vasanthkumarpulkam.github.io/portfolio/
 
